@@ -47,7 +47,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 - Metamask documentation
 - Solidity and Web3.js documentation
-- IPFS documentation
 - Truffle documentation
 
 
