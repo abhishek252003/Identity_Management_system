@@ -3,7 +3,7 @@
 //just provide the network address
 
 window.CONTRACT = {
-  address: 'Your Contract Address',
+  address: '0xf11B5d3093261384733b7092885A947E0Df632EA',
   network: 'blockchain network address Example : https://polygon-rpc.com/',
   explore: 'blockchain Block Explorer  Example https://polygonscan.com/',
   // Your Contract ABI 
